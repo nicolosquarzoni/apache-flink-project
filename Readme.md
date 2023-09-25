@@ -18,7 +18,7 @@ Then go to the ‘’saved object’’ and import the ndjson file. You should s
 
 ![](Aspose.Words.6c160b7f-e781-4035-b283-810457f40c54.004.png)![](Aspose.Words.6c160b7f-e781-4035-b283-810457f40c54.005.png)![](Aspose.Words.6c160b7f-e781-4035-b283-810457f40c54.006.png)![](Aspose.Words.6c160b7f-e781-4035-b283-810457f40c54.007.png)
 
-- the easiest way to launch the job is from the Apache Flink UI. Click the ‘’section submit new job’’, add the jar file from your file system and clink on the added line.
+- the easiest way to launch the job is from the Apache Flink UI. Click the ‘’section submit new job’’, add the jar file from your file system located in the target folder and clink on the added line.
 
 ![](Aspose.Words.6c160b7f-e781-4035-b283-810457f40c54.008.png)![](Aspose.Words.6c160b7f-e781-4035-b283-810457f40c54.009.png)
 
